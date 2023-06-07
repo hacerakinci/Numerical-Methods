@@ -1,6 +1,6 @@
 # Numerical-Methods
 
-Istanbul Technical University Numerical Methods Course (BLG202E) Homeworhs Python Codes | 2022-2023 Spring Term
+Istanbul Technical University Numerical Methods Course (BLG202E) Homeworks Python Codes | 2022-2023 Spring Term
 
 
 ## Tools & Technologies Used 
