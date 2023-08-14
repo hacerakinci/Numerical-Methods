@@ -17,3 +17,5 @@ Visual Studio Code
 - Bisection Method
 - Newton Method
 - Secant Method
+- Divided Difference Table
+- Lagrange Interpolation
